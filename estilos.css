@@ -1,0 +1,37 @@
+.textorojo
+{
+    color:#CC2244;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+    font-weight: normal;
+    background-color: #FFF;
+}
+.textoazul
+{
+    color:#2222FF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+    font-weight: normal; 
+}
+p{
+    text-align: center;
+}
+img
+{
+    height: 200px;
+}
+.contenido1
+{
+border:#CC2244 2px dotted;
+display:inline-block;
+background:url("img/gatito.jpg");
+background-size: 120px;
+background-repeat: no-repeat;
+height: 150px;
+}
+.contenido2
+{
+    float: right;
+    border:#CC2244 2px dotted;
+    width: 500px;
+}
